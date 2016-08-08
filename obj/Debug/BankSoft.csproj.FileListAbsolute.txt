@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BankSoft\BankSoft\bin\Debug\BankSoft.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\BankSoft\BankSoft\bin\Debug\BankSoft.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\BankSoft\BankSoft\bin\Debug\BankSoft.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\BankSoft\BankSoft\obj\Debug\BankSoft.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\BankSoft\BankSoft\obj\Debug\BankSoft.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\BankSoft\BankSoft\obj\Debug\BankSoft.pdb
